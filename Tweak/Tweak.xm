@@ -101,7 +101,7 @@ NSString *translationLanguage;
         slcWindow = [[SLCWindow alloc] initWithFrame:[[UIScreen mainScreen] bounds]];
     }
     
-    NSString *strUrl = [url stringByReplacingOccurrencesOfString:@"%s" withString: [parameter stringByAddingPercentEncodingWithAllowedCharacters:NSCharacterSet.URLQueryAllowedCharacterSet]];
+    NSString *strUrl = [url stringByReplacingOccurrencesOfString:@"%s" withString: [parameter stringByAddingPercentEncodingWithAllowedCharacters:NSCharacterSet.URLHostAllowedCharacterSet]];
 
     if (popup && [strUrl hasPrefix:@"http"]) {
         NSLog(@"[Selector] url = %@", strUrl);
