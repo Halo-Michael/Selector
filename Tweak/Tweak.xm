@@ -24,8 +24,8 @@ NSString *translationLanguage;
 -(id)initWithFrame:(CGRect)arg1 {
     UICalloutBar *orig = %orig;
 
-    self.slcTranslateItem = [[UIMenuItem alloc] initWithTitle:@"Translate" action:@selector(slcTranslate:)];
-    self.slcSearchItem = [[UIMenuItem alloc] initWithTitle:@"Search" action:@selector(slcSearch:)];
+    self.slcTranslateItem = [[UIMenuItem alloc] initWithTitle:@"翻译" action:@selector(slcTranslate:)];
+    self.slcSearchItem = [[UIMenuItem alloc] initWithTitle:@"搜索" action:@selector(slcSearch:)];
 
     return orig;
 }

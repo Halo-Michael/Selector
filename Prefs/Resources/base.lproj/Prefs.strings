@@ -1,20 +1,16 @@
 {
-  "ENABLED" = "Enabled";
-
-  "SEARCH" = "Search";
-  "SEARCH_ENGINE" = "Engine";
-
-  "TRANSLATION" = "Translation";
-  "TRANSLATION_SERVICE" = "Service";
-  "TRANSLATION_LANGUAGE" = "Language";
-
-  "POPUP" = "Popup";
-
-  "ARE_YOU_SURE_TO_RESET_PREFS" = "Are you sure you want to reset all your preferences? This cannot be undone.";
-  "OK" = "OK";
-  "CANCEL" = "Cancel";
-  "RESET_PREFS" = "Restore default settings and respring";
-  "SOURCE_CODE" = "Source code";
-  "DONATE_TO_NEPETA" = "Donate to Nepeta";
-  "SUPPORT_ME" = "Support me!";
+    "ARE_YOU_SURE_TO_RESET_PREFS" = "\U60a8\U786e\U5b9a\U8981\U91cd\U7f6e\U6240\U6709\U8bbe\U7f6e\U5417\Uff1f \U8be5\U64cd\U4f5c\U4e0d\U80fd\U88ab\U64a4\U6d88\U3002";
+    CANCEL = "\U53d6\U6d88";
+    "DONATE_TO_NEPETA" = "\U6350\U8d60Nepeta";
+    ENABLED = "\U542f\U7528";
+    OK = "\U786e\U5b9a";
+    POPUP = "\U5f39\U7a97";
+    "RESET_PREFS" = "\U91cd\U7f6e\U6240\U6709\U8bbe\U7f6e\U5e76\U6ce8\U9500";
+    SEARCH = "\U641c\U7d22";
+    "SEARCH_ENGINE" = "\U5f15\U64ce";
+    "SOURCE_CODE" = "\U6e90\U4ee3\U7801";
+    "SUPPORT_ME" = "\U6350\U8d60\U6211\Uff01";
+    TRANSLATION = "\U7ffb\U8bd1";
+    "TRANSLATION_LANGUAGE" = "\U8bed\U8a00";
+    "TRANSLATION_SERVICE" = "\U670d\U52a1\U5546";
 }

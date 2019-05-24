@@ -46,7 +46,7 @@ UIWindow* SLCGetMainWindow() {
     self.closeLabel = [[UILabel alloc] initWithFrame:CGRectMake(0,self.frame.size.height * 0.8,self.frame.size.width,self.frame.size.height * 0.2)];
     self.closeLabel.textAlignment = NSTextAlignmentCenter;
     self.closeLabel.textColor = [UIColor whiteColor];
-    self.closeLabel.text = @"Tap here to close";
+    self.closeLabel.text = @"单击此处以关闭";
     [self.closeLabel setFont:[UIFont systemFontOfSize:24]];
     [self addSubview: self.closeLabel];
 

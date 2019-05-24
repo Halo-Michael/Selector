@@ -1,9 +1,12 @@
-Package: me.nepeta.selector
-Name: Selector
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 11.0)
-Version: 0.1.2
+Package: com.michael.selector
+Name: Selector(简体中文)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Version: 0.1.1
 Architecture: iphoneos-arm
-Description: Select text to search or translate
-Maintainer: Nepeta
+Conflicts: me.nepeta.selector
+Provides: me.nepeta.selector
+Replaces: me.nepeta.selector
+Description: 选择文本以翻译或搜索
+Maintainer: halo_michael <yc992147156@me.com>
 Author: Nepeta
 Section: Tweaks

@@ -101,12 +101,12 @@
 			</array>
 			<key>validTitles</key>
 			<array>
-				<string>Google</string>
-				<string>Bing</string>
+				<string>谷歌</string>
+				<string>必应</string>
 				<string>DuckDuckGo</string>
-				<string>Baidu</string>
+				<string>百度</string>
 				<string>Yandex</string>
-				<string>Yahoo</string>
+				<string>雅虎</string>
 			</array>
 			<key>PostNotification</key>
 			<string>me.nepeta.selector/ReloadPrefs</string>
@@ -173,10 +173,10 @@
 			</array>
 			<key>validTitles</key>
 			<array>
-				<string>Google Translate (web)</string>
-				<string>Google Translate (web/China)</string>
-				<string>Baidu (web)</string>
-				<string>iTranslate (app)</string>
+				<string>谷歌翻译 (网页)</string>
+				<string>谷歌翻译 (网页/国区)</string>
+				<string>百度 (网页)</string>
+				<string>iTranslate (应用)</string>
 			</array>
 			<key>PostNotification</key>
 			<string>me.nepeta.selector/ReloadPrefs</string>
@@ -247,7 +247,7 @@
 			<key>subtitle</key>
 			<string>SOURCE_CODE</string>
 			<key>url</key>
-			<string>https://github.com/Nepeta/Selector</string>
+			<string>https://github.com/Halo-Michael/Selector</string>
 		</dict>
 		<dict>
 			<key>cellClass</key>
